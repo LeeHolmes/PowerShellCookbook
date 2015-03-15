@@ -1,0 +1,4 @@
+CN,userPrincipalName,displayName,manager
+MyerKen,Ken.Myer@fabrikam.com,Ken Myer,
+DoeJane,Jane.Doe@fabrikam.com,Jane Doe,"CN=MyerKen,OU=West,OU=Sales,DC=Fabrikam,DC=COM"
+SmithRobin,Robin.Smith@fabrikam.com,Robin Smith,"CN=MyerKen,OU=West,OU=Sales,DC=Fabrikam,DC=COM"
